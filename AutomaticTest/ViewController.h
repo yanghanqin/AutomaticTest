@@ -10,7 +10,6 @@
 
 @interface ViewController : UIViewController
 
--(void)test:(UIView *)testView;
 
 @end
 
